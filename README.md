@@ -1,3 +1,44 @@
+# NewsMANIA
+
+A responsive React-based news application that delivers real-time, category-specific headlines using the **NewsAPI**. Designed to offer a seamless and engaging user experience with dynamic content rendering, smooth navigation, and modern UI practices.
+
+## Project Overview
+
+NewsMANIA is a dynamic, single-page application built with **React** that fetches and displays top news stories across various categories including Business, Health, Entertainment, Technology, and more. This project showcases efficient API consumption, responsive UI/UX design, and modular component architecture.
+
+## Features
+
+-  Real-time news from [NewsAPI](https://newsapi.org/)
+-  Category-wise filtering (e.g., Health, Tech, Sports, Business)
+-  Fast client-side routing with `React Router`
+-  Smooth navigation and responsive design
+-  Lazy loading and infinite scroll for improved performance
+-  Mobile-first UI using modern CSS and Flexbox
+
+##  Tech Stack
+ **React.js**      Frontend library for building UI    
+ **React Router**  Enables dynamic routing             
+ **NewsAPI**       Real-time news content              
+ **JavaScript**    Core programming logic 
+ **CSS3**         Custom responsive styling        
+ **Bootstrap**    Layout and styling framework        
+
+
+##  Getting Started
+
+### Prerequisites
+
+- Node.js ≥ 14.x
+- npm or yarn
+
+### Installation
+
+```bash
+git clone https://github.com/Sakshinitd/NewsMANIA-react.git
+cd NewsMANIA-react
+npm install
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
